@@ -1,7 +1,7 @@
 
 # Data Analysis | Python | Machine Learning | Deep Learning
 
-<img src="giphy 3.webp" style="text-align:center;"></img>
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 
 
@@ -15,6 +15,6 @@ A data enthusiast, in love with building data-driven solutions that impact the w
 
 > Currently Learning Data Analysis
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shivansh5059&show_icons=true&count_private=true)  
+![](https://github-readme-stats.vercel.app/api?username=shivansh5059&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=shivansh5059)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=shivansh5059&theme=dark&hide_border=false)<br/>
